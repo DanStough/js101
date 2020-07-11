@@ -11,7 +11,7 @@ function lvl3exercise2 () {
 function lvl3exercise3 () {
   // Create a variable that equals 12 and convert it to a string with concatenation. Return it.
   var myVar = 12;
-  return myVar.toString();
+  return myVar + "";
 }
 
 function lvl3exercise4 () {

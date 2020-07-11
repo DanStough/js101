@@ -2,15 +2,11 @@ function lvl6exercise1 (num) {
   // Return 'hello' if num is 1, 'world' if num is 2, otherwise return 'bye'
   if (num == 1) {
     return "hello";
+  } else if (num == 2){
+    return "world";
   } else {
     return "bye";
   }
-
-  // // OR....
-  // if (num == 1) {
-  //   return "hello";
-  // }
-  // return "bye";
 }
 
 function lvl6exercise2 () {
