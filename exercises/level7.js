@@ -3,3 +3,13 @@
 // times as the input number
 //
 // Name the function "finalFunction"
+
+function finalFunction(num) {
+    var arr = [];
+    var myString = "HELLO!";
+
+    for(var i=0; i<num; i++){
+        arr.push(myString);
+    }
+    return arr;
+}
